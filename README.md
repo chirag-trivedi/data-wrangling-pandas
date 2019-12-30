@@ -1,1 +1,1 @@
-# data-wrangling-pandas
+# Using pandas to wrangle IMDB data
